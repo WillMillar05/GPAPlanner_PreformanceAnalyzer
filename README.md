@@ -11,6 +11,6 @@ This app will help users better understand their academic preformance by combini
 This app is intended for students (high school and college) who want to uderstand how individual classes affect their grades, waht classes tehy need to improve on in order to reach a target GPA, and plan for overall improved academic preformance. 
 
 ## Planned Features 
-Grade Scenario Simulator
-Target GPA Planner
-Grade Impact Analyzer
+- Grade Scenario Simulator
+- Target GPA Planner
+- Grade Impact Analyzer
