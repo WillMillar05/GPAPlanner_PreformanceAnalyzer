@@ -1,4 +1,6 @@
 import streamlit as st
+st.logo("fairfield_logo.png", size="large")
+st.set_page_config(page_title="GPA Planner")
 st.title("GPA Planner Performance Analyzer")
 
 st.write("Enter your courses below to calculate your current GPA and plan for your target.")
